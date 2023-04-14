@@ -2,8 +2,7 @@
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Prestashop.svg" width="400"></p>
 
 <p align="center">
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+[![Latest Stable Version](http://poser.pugx.org/prestashop/prestashop/v)](https://packagist.org/packages/prestashop/prestashop) [![Total Downloads](http://poser.pugx.org/prestashop/prestashop/downloads)](https://packagist.org/packages/prestashop/prestashop) [![Latest Unstable Version](http://poser.pugx.org/prestashop/prestashop/v/unstable)](https://packagist.org/packages/prestashop/prestashop) [![License](http://poser.pugx.org/prestashop/prestashop/license)](https://packagist.org/packages/prestashop/prestashop) [![PHP Version Require](http://poser.pugx.org/prestashop/prestashop/require/php)](https://packagist.org/packages/prestashop/prestashop)
 </p>
 
 ## Fidel Martin
