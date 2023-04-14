@@ -1,7 +1,4 @@
 # SearchBar-Module-PS
-
-https://1000marcas.net/wp-content/uploads/2022/10/PrestaShop-Logo.png
-
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Prestashop.svg" width="400"></p>
 
 <p align="center">
