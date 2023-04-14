@@ -2,7 +2,10 @@
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Prestashop.svg" width="400"></p>
 
 <p align="center">
-[![Latest Stable Version](http://poser.pugx.org/prestashop/prestashop/v)](https://packagist.org/packages/prestashop/prestashop) [![Total Downloads](http://poser.pugx.org/prestashop/prestashop/downloads)](https://packagist.org/packages/prestashop/prestashop) [![Latest Unstable Version](http://poser.pugx.org/prestashop/prestashop/v/unstable)](https://packagist.org/packages/prestashop/prestashop) [![License](http://poser.pugx.org/prestashop/prestashop/license)](https://packagist.org/packages/prestashop/prestashop) [![PHP Version Require](http://poser.pugx.org/prestashop/prestashop/require/php)](https://packagist.org/packages/prestashop/prestashop)
+<a href="https://packagist.org/packages/prestashop/prestashop"><img src="http://poser.pugx.org/prestashop/prestashop/downloads" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/prestashop/prestashop"><img src="http://poser.pugx.org/prestashop/prestashop/v" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/prestashop/prestashop"><img src="http://poser.pugx.org/prestashop/prestashop/require/php" alt="PHP Version Require"></a>
+<a href="https://packagist.org/packages/prestashop/prestashop"><img src="http://poser.pugx.org/prestashop/prestashop/license" alt="License"></a>
 </p>
 
 ## Fidel Martin
